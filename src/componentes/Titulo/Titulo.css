@@ -1,0 +1,10 @@
+/* Configuração do componente título*/
+
+.titulo{
+    height: 8vh;
+    background-color: rgb(255, 207, 188);
+    border: 1px solid salmon;
+    position: relative;
+    top: 7vh;
+    font-family: 'Calibri', sans-serif;
+}

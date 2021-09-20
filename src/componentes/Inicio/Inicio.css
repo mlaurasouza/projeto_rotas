@@ -1,0 +1,17 @@
+/* Configuração do componente título*/
+
+.inicio, .harley, .suzuki, .honda, .yamaha, .lambreta, .titulo, footer{
+    text-align: center;
+    border: 1px solid salmon;
+}
+
+.inicio{
+    height: 90vh;
+    background-color: beige;
+  }
+
+  #logo{
+      margin: 20vh;
+      width: 900px;
+      height: 200px;
+  }
